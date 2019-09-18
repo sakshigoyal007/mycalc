@@ -11,4 +11,4 @@ To run it on your local machine clone into the repo, then type:
     
 A sneak peek: 
 
-![alt react-calculator-simple](Screenshot.png)
+![alt react-calculator-simple](gfg_calculator.gif)
