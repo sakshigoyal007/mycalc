@@ -26,7 +26,7 @@ render(){
 			<OutputScreen answer={this.state.answer} question={this.state.question}/>
 
 			<div className="button-row">
-				<Button label={'Clear'} handleClick={this.handleClick}/>
+				<Button label={'Clear'} handleClick={this.handleClick}/> 
 				<Button label={'Delete'} handleClick={this.handleClick}/>
 				<Button label={'.'} handleClick={this.handleClick}/>
 				<Button label={'-'} handleClick={this.handleClick}/>

@@ -9,6 +9,3 @@ To run it on your local machine clone into the repo, then type:
     npm install && npm start
     
     
-A sneak peek: 
-
-![alt react-calculator-simple](gfg_calculator.gif)
