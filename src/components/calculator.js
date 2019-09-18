@@ -4,7 +4,7 @@ import OutputScreen from './outputScreen.js';
 import Button from './button.js';
 
 
-class Calculator extends React.Components{
+class Calculator extends React.Component{
 
 constructor(){
 	super();
