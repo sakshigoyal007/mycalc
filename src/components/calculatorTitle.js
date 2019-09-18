@@ -1,11 +1,11 @@
 import React from 'react';
 
-const CalculatorTitle=(title)=>{
+const CalculatorTitle=(props) => {
 	return(
 		<div className="calculator-title">
-		{title.value}
+		{props.value}
 		</div>
-		);
+		)
 }
 
 export default CalculatorTitle;
