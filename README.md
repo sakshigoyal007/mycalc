@@ -11,4 +11,4 @@ To run it on your local machine clone into the repo, then type:
     
 A sneak peek: 
 
-![alt react-calculator-simple](Screenshot (1).png)
+![alt react-calculator-simple](~\General\D:\JavaScript practice\mycalc\public\Screenshot (1).png)
