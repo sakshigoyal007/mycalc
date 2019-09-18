@@ -29,7 +29,7 @@ render(){
 				<Button label={'Clear'} handleClick={this.handleClick}/> 
 				<Button label={'Delete'} handleClick={this.handleClick}/>
 				<Button label={'.'} handleClick={this.handleClick}/>
-				<Button label={'-'} handleClick={this.handleClick}/>
+				<Button label={'/'} handleClick={this.handleClick}/>
 			</div>
 			<div className="button-row">
 				<Button label={'7'} handleClick={this.handleClick}/>
